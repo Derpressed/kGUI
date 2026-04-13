@@ -82,16 +82,3 @@ int showK(kWnd* kWndMain) {
 
     return valid;
 }
-
-
-
-
-
-int main() {
-    
-    kGUI mainProc = procK(L"Test");
-    kWnd mainWnd = wndK(&mainProc, L"Hello World!");
-    showK(&mainWnd);
-
-    return 0;
-}
