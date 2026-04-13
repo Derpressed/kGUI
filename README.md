@@ -36,7 +36,7 @@ A small GUI module tailored for me to be used through C
 **Returns:** `kGUI` - struct of process
 
 
-### `wndK (function);`
+### `wndK(kGUI *parentClass, LPCWSTR wndName);`
 |type|Parameter|Description|
 |:-------------|:--------------|:--------------|
 |`kGUI`|`*parentClass`||
@@ -44,7 +44,7 @@ A small GUI module tailored for me to be used through C
 
 **Returns:** `kWnd` - struct of window
 
-### `showK (function);`
+### `showK(kWnd *kWndMain);`
 |type|Parameter|Description|
 |:-------------|:--------------|:--------------|
 |`kWnd`|`*kWndMain`||
