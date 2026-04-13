@@ -3,7 +3,7 @@ A small GUI module tailored for me to be used through C
 
 ### INFORMATION
 
-kGUI 
+kGUI<br>
 typedef struct that has the following properties:
 int valid
 HINSTANCE hInstance
