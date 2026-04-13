@@ -2,7 +2,6 @@
 A small GUI module tailored for me to be used through C
 
 ## Information
-
 ### `typedef struct kGUI`
 |type|Parameter|Description|
 |:-------------|:--------------|:------------|
@@ -11,6 +10,7 @@ A small GUI module tailored for me to be used through C
 |`LPCWSTR`|`CLASS_NAME`||
 |`WNDCLASSW`|`wc`||
 
+    
 ### `typedef struct kWnd`
 |type|Parameter|Description|
 |:-------------|:--------------|:--------------|
