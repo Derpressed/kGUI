@@ -59,5 +59,5 @@ A small GUI module tailored for me to be used through C
     To be reliably used within every machine, MacOS and any other operating system's API will be needed in future updates.
 </p>
 <p>
-    Functionality is limited to Window Creation, code will be updated once 
+    Functionality is limited to Window Creation, code will be updated once all functionality is built in
 </p>
